@@ -1,9 +1,9 @@
 node-openvpn
 ============
 [![Build Status](https://travis-ci.org/amilajack/node-openvpn.svg?branch=master)](https://travis-ci.org/amilajack/node-openvpn)
-[![NPM version](https://badge.fury.io/js/node-openvpn.svg)](http://badge.fury.io/js/node-openvpn)
+[![NPM version](https://badge.fury.io/js/@amilajack/node-openvpn.svg)](http://badge.fury.io/js/@amilajack/node-openvpn)
 [![Dependency Status](https://img.shields.io/david/amilajack/node-openvpn.svg)](https://david-dm.org/amilajack/node-openvpn)
-[![npm](https://img.shields.io/npm/dm/node-openvpn.svg?maxAge=2592000)]()
+[![npm](https://img.shields.io/npm/dm/@amilajack/node-openvpn.svg?maxAge=2592000)]()
 
 Communicate to an OpenVpn client instance via telenet, for [node](http://nodejs.org).
 
