@@ -9,12 +9,12 @@ Communicate to an OpenVpn client instance via telenet, for [node](http://nodejs.
 
 ## Installation
 ```bash
-npm install node-openvpn
+npm install @amilajack/node-openvpn
 ```
 
 ## Example
 ```js
-import openvpnmanager from 'node-openvpn';
+import openvpnmanager from '@amilajack/node-openvpn';
 
 const opts = {
   host: '127.0.0.1', // normally '127.0.0.1', will default to if undefined
